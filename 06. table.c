@@ -16,18 +16,6 @@ int main(void)
 	}
 	return 0;
 }
-void table(int n)
-{
-	int counter;
-	printf("\n table of %d in function table \n", n);
-	for(counter=1; counter<=10; counter++)
-	{
-		printf("%3d*%3d=%3d\n", n, counter, n*counter);
-	}
-	return;
-}
-int table_no(int n, int c)
-{
-	int temp=n*c;
-	return temp;
-}
+
+dips
+neha shubham 
